@@ -10,7 +10,7 @@
                              __/ |                      
                             |___/
 
-
+""
 The word you guessed is chocho
 Guess a Letter: y
 You guessed y , This letter is not in the word, you lose a try
@@ -126,3 +126,4 @@ c _ _ c _ _
   / \     |
           |
   =========
+""
